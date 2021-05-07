@@ -1,3 +1,5 @@
+// Problem Link: https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem
+
 /**
 *   Calculate the area of a rectangle.
 *
