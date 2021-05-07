@@ -1,3 +1,5 @@
+// Problem Link: https://www.hackerrank.com/challenges/js10-data-types/problem
+
 /**
 *   The variables 'firstInteger', 'firstDecimal', and 'firstString' are declared for you -- do not modify them.
 *   Print three lines:
