@@ -1,3 +1,5 @@
+// Problem Link: https://www.hackerrank.com/challenges/js10-let-and-const/problem
+
 function main() {
     // Read input using 'readLine()' and print output using 'console.log()'.
   
