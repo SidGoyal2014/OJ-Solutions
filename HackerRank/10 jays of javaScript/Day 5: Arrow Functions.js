@@ -7,16 +7,8 @@
  * nums: An array of numbers.
  */
 function modifyArray(nums) {
-
-    var sol = []
-    for(var i=0;i<nums.length;i++){
-        if(nums[i] % 2 == 0){
-            sol[i] = nums[i] * 2;
-        }
-        else{
-            sol[i] = nums[i] * 3;
-        }
-    }
     
-    return sol;
+    var arr = nums.map(a => (a%2 == 0 ? a*2 : a*3));
+    
+    return arr;
 }
