@@ -1,3 +1,8 @@
+// Problem Name: Pangrams
+// Problem Link: https://www.hackerrank.com/challenges/pangrams/problem
+
+/////////////// SOLUTION //////////////////
+
 #include <iostream>
 #include <string>
 using namespace std;
