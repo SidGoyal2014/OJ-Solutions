@@ -1,3 +1,8 @@
+// Problem Name: Encryption
+// Problem Link: https://www.hackerrank.com/challenges/encryption/problem
+
+////////////// SOLUTION ////////////////
+
 #include <iostream>
 #include <string.h>
 #include <math.h>
