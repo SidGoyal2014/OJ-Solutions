@@ -1,4 +1,8 @@
-// This is the Hackerrank solution of "Designer PDF Viewer" in Problem Solving.
+// Problem Name: Designer PDF Viewer
+// Problem Link: https://www.hackerrank.com/challenges/designer-pdf-viewer/problem
+
+//////////////// SOLUTION ///////////////////
+
 #include <iostream>
 #include <string.h>
 using namespace std;
