@@ -1,3 +1,8 @@
+// Problem Name: Counting Valleys
+// Problem Link: https://www.hackerrank.com/challenges/counting-valleys/problem
+
+///////////// SOLUTION ///////////////
+
 #include <iostream>
 using namespace std;
 int main(){
