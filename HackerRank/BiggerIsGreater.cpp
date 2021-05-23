@@ -1,3 +1,8 @@
+// Problem Name: Bigger is Greater
+// Problem Link: https://www.hackerrank.com/challenges/bigger-is-greater/problem
+
+///////////// SOLUTION /////////////////
+
 #include <iostream>
 #include <algorithm>
 using namespace std;
